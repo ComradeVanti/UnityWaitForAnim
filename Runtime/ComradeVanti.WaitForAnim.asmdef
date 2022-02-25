@@ -1,0 +1,14 @@
+{
+    "name": "ComradeVanti.WaitForAnim",
+    "rootNamespace": "ComradeVanti.WaitForAnim",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
