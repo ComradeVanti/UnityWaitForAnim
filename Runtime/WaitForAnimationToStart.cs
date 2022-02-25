@@ -27,9 +27,9 @@ namespace ComradeVanti.WaitForAnim
         ///     Creates a new yield-instruction
         /// </summary>
         /// <param name="animator">The animator to track</param>
-        /// <param name="layerIndex">The layer the animation is playing on</param>
         /// <param name="animationName">The name of the animation</param>
-        public WaitForAnimationToStart(Animator animator, int layerIndex, string animationName)
+        /// <param name="layerIndex">The layer the animation is playing on</param>
+        public WaitForAnimationToStart(Animator animator, string animationName, int layerIndex = 0)
         {
             this.animator = animator;
             this.layerIndex = layerIndex;
