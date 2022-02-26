@@ -3,4 +3,5 @@
 ### Added
 - Installation info
 - Compatability info
+- Changelog url in manifest
 - This changelog
