@@ -21,3 +21,8 @@ yield return new WaitForAnimationToStart(animator, "MyAnim");
 [Use the package manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
 with the url `git://github.com/ComradeVanti/WaitForAnim` to add the package to
 your project.
+
+## Compatability
+
+Developed with Unity 2020.3 but good chance that it will work with earlier
+versions, though this has not been tested.
