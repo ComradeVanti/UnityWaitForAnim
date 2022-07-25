@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.0.0
+
+### Added
+
+- Namespace info to readme
+
+### Changed
+
+- Assembly-name and namespace to include "Dev"
+
 ## 1.0.4
 
 ### Fixed

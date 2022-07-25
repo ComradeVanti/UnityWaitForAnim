@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace ComradeVanti.WaitForAnim
+namespace Dev.ComradeVanti.WaitForAnim
 {
 
     public static class AnimatorExt

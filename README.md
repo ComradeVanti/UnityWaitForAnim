@@ -18,6 +18,8 @@ Adds custom yield-instructions for waiting for animations to start or finish
 inside of coroutines. Example:
 
 ```
+// using Dev.ComradeVanti.WaitForAnim
+
 yield return new WaitForAnimationToStart(animator, "MyAnim");
 ```
 

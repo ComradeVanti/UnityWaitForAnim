@@ -1,6 +1,6 @@
 {
-    "name": "ComradeVanti.WaitForAnim",
-    "rootNamespace": "ComradeVanti.WaitForAnim",
+    "name": "Dev.ComradeVanti.WaitForAnim",
+    "rootNamespace": "Dev.ComradeVanti.WaitForAnim",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
