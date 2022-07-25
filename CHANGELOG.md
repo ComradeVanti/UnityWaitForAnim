@@ -5,6 +5,7 @@
 ### Added
 
 - Dates to changelog entries
+- OpenUPM Badge
 
 ## 1.0.2 - 2022-03-22
 

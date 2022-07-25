@@ -1,5 +1,7 @@
 # WaitForAnim
 
+[![openupm](https://img.shields.io/npm/v/dev.comradevanti.wait-for-anim?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/dev.comradevanti.wait-for-anim/)
+
 A Unity-package for waiting for animations in coroutines.
 
 Check out the wiki [here](https://github.com/ComradeVanti/WaitForAnim/wiki).
