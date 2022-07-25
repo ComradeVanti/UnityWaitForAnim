@@ -1,6 +1,12 @@
 # Changelog
 
-## Unreleased
+## 1.0.4
+
+### Fixed
+
+- Missing version header and date for 1.0.3
+
+## 1.0.3 - 2022-07-25
 
 ### Added
 
