@@ -23,9 +23,13 @@ yield return new WaitForAnimationToStart(animator, "MyAnim");
 
 ## Installation
 
-[Use the package manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
-with the url `git://github.com/ComradeVanti/WaitForAnim` to add the package to
-your project.
+The quickest way is to install via [OpenUPM](https://openupm.com)
+using `openupm add dev.comradevanti.wait-for-anim`.
+
+Or install manually
+as [git dependency](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
+from `https://github.com/ComradeVanti/WaitForAnim.git` or download as zip
+and [import locally](https://docs.unity3d.com/Manual/upm-ui-local.html).
 
 ## Compatability
 

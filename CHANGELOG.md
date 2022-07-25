@@ -6,6 +6,7 @@
 
 - Dates to changelog entries
 - OpenUPM Badge
+- OpenUPM installation instructions
 
 ## 1.0.2 - 2022-03-22
 
