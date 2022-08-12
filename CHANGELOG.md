@@ -1,12 +1,13 @@
 # Changelog
 
-## 2.0.1
+## 2.0.1 - 2022-08-12
 
 ### Fixed
 
 - Invalid gitignore did not commit some .meta files
+- Missing header-dates in changelog
 
-## 2.0.0
+## 2.0.0 - 2022-07-25
 
 ### Added
 
@@ -16,7 +17,7 @@
 
 - Assembly-name and namespace to include "Dev"
 
-## 1.0.4
+## 1.0.4 - 2022-07-25
 
 ### Fixed
 
