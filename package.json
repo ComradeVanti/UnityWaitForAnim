@@ -1,6 +1,6 @@
 {
   "name": "dev.comradevanti.wait-for-anim",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A Unity-package for waiting for animations in coroutines",
   "displayName": "WaitForAnim",
   "unity": "2020.3",

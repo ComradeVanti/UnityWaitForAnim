@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.1
+
+### Fixed
+
+- Invalid gitignore did not commit some .meta files
+
 ## 2.0.0
 
 ### Added
