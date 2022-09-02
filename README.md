@@ -4,13 +4,13 @@
 
 A Unity-package for waiting for animations in coroutines.
 
-Check out the wiki [here](https://github.com/ComradeVanti/WaitForAnim/wiki).
+Check out the wiki [here](https://github.com/ComradeVanti/UnityWaitForAnim/wiki).
 
 Found any issues? Leave
-them [here](https://github.com/ComradeVanti/WaitForAnim/issues).
+them [here](https://github.com/ComradeVanti/UnityWaitForAnim/issues).
 
 Want to see what's new? The changelog
-is [here](https://github.com/ComradeVanti/WaitForAnim/blob/main/CHANGELOG.md).
+is [here](https://github.com/ComradeVanti/UnityWaitForAnim/blob/main/CHANGELOG.md).
 
 ## Features
 
@@ -30,7 +30,7 @@ using `openupm add dev.comradevanti.wait-for-anim`.
 
 Or install manually
 as [git dependency](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
-from `https://github.com/ComradeVanti/WaitForAnim.git` or download as zip
+from `https://github.com/ComradeVanti/UnityWaitForAnim.git` or download as zip
 and [import locally](https://docs.unity3d.com/Manual/upm-ui-local.html).
 
 ## Compatability

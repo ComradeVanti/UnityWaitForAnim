@@ -1,5 +1,11 @@
 # Changelog
 
+## Upcoming
+
+### Changed
+
+- Rename repo
+
 ## 2.0.1 - 2022-08-12
 
 ### Fixed
