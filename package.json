@@ -1,6 +1,6 @@
 {
   "name": "dev.comradevanti.wait-for-anim",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A custom yield instruction to wait for animations",
   "displayName": "Wait for animation",
   "unity": "2020.3",

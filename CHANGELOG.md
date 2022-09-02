@@ -1,6 +1,6 @@
 # Changelog
 
-## Upcoming
+## 2.0.2 - 2022-09-02
 
 ### Changed
 
