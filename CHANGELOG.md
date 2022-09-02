@@ -5,6 +5,7 @@
 ### Changed
 
 - Rename repo
+- Reword display name
 
 ## 2.0.1 - 2022-08-12
 
