@@ -2,6 +2,8 @@
 
 ## Upcoming
 
+## 2.0.3 - 2023-03-22
+
 ### Added
 
 - Usage docs in readme
