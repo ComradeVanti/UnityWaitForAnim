@@ -1,5 +1,11 @@
 # Changelog
 
+## Upcoming
+
+### Added
+
+- Usage docs in readme
+
 ## 2.0.2 - 2022-09-02
 
 ### Changed

@@ -14,13 +14,26 @@ is [here](https://github.com/ComradeVanti/UnityWaitForAnim/blob/main/CHANGELOG.m
 
 ## Features
 
-Adds custom yield-instructions for waiting for animations to start or finish
-inside of coroutines. Example:
+### Start an animation and wait for it to finish
 
+If you want to wait for an animation to stop playing, you can use `WaitForAnimationToFinish`.
+
+```csharp
+yield return new WaitForAnimationToFinish(animator, "MyAnim");
 ```
-// using Dev.ComradeVanti.WaitForAnim
 
-yield return new WaitForAnimationToStart(animator, "MyAnim");
+You can also start an animation and wait for it to finish using the extension method `PlayAndWait`.
+
+```csharp
+yield return animator.PlayAndWait("MyAnim");
+```
+
+### Wait for an animation to start
+
+If you want to wait for an animation to start playing, you can use `WaitForAnimationToStart`.
+
+```csharp
+yield return new WaitForAnimationToStart(animator, "Test");
 ```
 
 ## Installation
