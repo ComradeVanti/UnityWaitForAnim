@@ -12,6 +12,11 @@ them [here](https://github.com/ComradeVanti/UnityWaitForAnim/issues).
 Want to see what's new? The changelog
 is [here](https://github.com/ComradeVanti/UnityWaitForAnim/blob/main/CHANGELOG.md).
 
+**⚠️ Development is paused ⚠️**  
+No new features will be added or bugs fixed unless requested through an issue.  
+If you wish to fork this repository and continue the work, you are very welcome
+to do so.
+
 ## Features
 
 ### Start an animation and wait for it to finish
